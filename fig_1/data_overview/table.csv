@@ -1,0 +1,23 @@
+﻿Patient,Age,Sex,USP8 Mutation,Experiment,Tissue
+P1,Adult,Female,Mutated,10x Multiome,Tumor + Normal
+P1,Adult,Female,Mutated,rChIP,Tumor
+P1,Adult,Female,Mutated,Methylation,Tumor
+P2,Pediatric,Male,NA,10x Multiome,Tumor + Normal
+P3,Adult,Female,NA,10x Multiome,Tumor
+P4,Pediatric,Male,Mutated,10x Multiome,Tumor
+P4,Pediatric,Male,Mutated,Methylation,Tumor
+P5,Pediatric,Female,NA,rChIP,Tumor
+P6,Adult,Male,NA,rChIP,Tumor
+P7,Pediatric,Male,No Mutation,Methylation,Tumor
+P7,Pediatric,Male,No Mutation,Mass Spectroscopy,Tumor + Normal
+P8,Pediatric,Male,No Mutation,Methylation,Tumor
+P8,Pediatric,Male,No Mutation,Mass Spectroscopy,Tumor + Normal
+P9,Pediatric,Male,Mutated,Methylation,Tumor
+P9,Pediatric,Male,Mutated,Mass Spectroscopy,Tumor + Normal
+P10,Adult,Female,NA,PLA,Tumor
+P11,Adult,Female,NA,PLA,Tumor
+P12,Adult,Female,NA,mIHC,Tumor + Normal
+P13,Adult,Female,NA,mIHC,Tumor + Normal
+P14,Adult,Male,NA,mIHC,Tumor + Normal
+P15,Adult,Female,NA,mIHC,Tumor + Normal
+P16,Adult,Male,NA,mIHC,Tumor + Normal
